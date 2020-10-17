@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\bin\Debug\Tarea3-DanielEmilioMartinezEstevez.exe.config
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\bin\Debug\Tarea3-DanielEmilioMartinezEstevez.exe
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\bin\Debug\Tarea3-DanielEmilioMartinezEstevez.pdb
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3-DanielEmilioMartinezEstevez.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3_DanielEmilioMartinezEstevez.Form1.resources
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3_DanielEmilioMartinezEstevez.Properties.Resources.resources
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3-DanielEmilioMartinezEstevez.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3-DanielEmilioMartinezEstevez.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3-DanielEmilioMartinezEstevez.exe
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3-DanielEmilioMartinezEstevez.pdb
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3_DanielEmilioMartinezEstevez.Forms.Form2.resources
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3_DanielEmilioMartinezEstevez.Forms.Form3.resources
+C:\Users\User\source\repos\Tarea3-DanielEmilioMartinezEstevez\obj\Debug\Tarea3_DanielEmilioMartinezEstevez.Forms.Form4.resources
